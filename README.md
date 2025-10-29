@@ -85,10 +85,4 @@ To deploy and interact with this smart contract, ensure you have the Soroban CLI
 
 ---
 
-**License**: MIT  
-**Status**: Development Phase  
-**Contributions**: Open to community contributions and feedback
 
-## Contract Details
-CBHNHY3QBXEACXXQ6RJLOUJGGXRDBWSEJKG4E7TSO6VAR6AUPSUCUIGN
-![alt text](<image.png>)
